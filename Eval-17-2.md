@@ -47,8 +47,8 @@ Répondre en texte brut dans le fichier `reponses_theorie.md` du dépôt.
 
 ## Partie 2 – Manipulation d’un dépôt sur GitHub (sur 25 points)
 
-Cloner le  dépôt GitHub public dont l’URL sera fournie (exemple :  
-`https://github.com/compte-exemple/eval-git-2026.git`), créer une branche individuelle, puis y déposer les réponses.
+Cloner ce dépôt GitHub public dont l’URL est (exemple :  
+`[https://github.com/compte-exemple/eval-git-2026](https://github.com/EK-CFRP-AVH/Prepa).git`), créer une branche individuelle, puis y déposer les réponses.
 
 Toutes les commandes et sorties demandées doivent être copiées dans le fichier `reponses_pratique.md` du dépôt.
 
@@ -99,7 +99,6 @@ Objectif : une branche par élève pour déposer les réponses.
     - Copier/coller la commande `git status`.
     - Copier/coller la ligne contenant `working tree clean`.
 
-> Optionnel (à utiliser seulement si le contexte le permet) :  
 > 12. Si les droits d’écriture sur le dépôt distant sont disponibles, pousser la branche individuelle vers GitHub avec la commande appropriée (`git push`), puis indiquer dans `reponses_pratique.md` la commande utilisée.
 
 ---
